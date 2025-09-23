@@ -23,6 +23,8 @@
 
 ### 🛠️ DevOps & Công cụ  
 - 🐳 Docker  
-- 🔄 CI/CD (GitHub Actions, GitLab CI)  
+- 🔄 CI/CD (GitHub Actions, GitLab CI)
+- - ☁️ Ubuntu Server (Cloud VPS)  
+- 🔑 SSH quản lý & deploy ứng dụng  
 - 🔧 Git & GitHub  
 
