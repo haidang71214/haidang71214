@@ -1,23 +1,57 @@
-## Hi there 👋
-
+# 👋 Xin chào, mình là [Tên của bạn]  
 
 🎓 Sinh viên tại **FPT University (FPTU)**  
-💻 Đang học tập và làm việc trong lĩnh vực **Web Development & DevOps**  
-## 🚀 Công nghệ & Kỹ năng  
-## 🌐 Frontend  
-- ⚡ Vite  
-- ⚡ Next.js  
-- ⚡ JavaScript, TypeScript  
-## ⚙️ Backend  
-- ☕ Java (Spring Boot)  
-- 🌱 Node.js (Express, NestJS)  
-## 🗄️ Cơ sở dữ liệu  
-- 🐬 MySQL  
-- 🍃 MongoDB  
-## 🛠️ DevOps & Công cụ  
-- 🐳 Docker  
-- 🔄 CI/CD (GitHub Actions, GitLab CI)
-- - ☁️ Ubuntu Server (Cloud VPS)  
-- 🔑 SSH quản lý & deploy ứng dụng  
-- 🔧 Git & GitHub  
+💻 Hướng tới Fullstack Developer + DevOps Engineer  
 
+---
+
+## 🚀 Công nghệ & Kỹ năng  
+
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff" />
+</p>
+
+### 🗄️ Database  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
+</p>
+
+### 🛠️ DevOps & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SSH-000000?logo=linux&logoColor=fff" />
+</p>
+
+---
+
+## 📊 Thống kê GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Kết nối với mình  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/YOUR_LINK)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://facebook.com/YOUR_LINK)  
+
+---
+
+⚡ *"Luôn học hỏi, luôn thử thách bản thân, và luôn phát triển."*  
