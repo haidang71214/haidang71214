@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Dang  
+# 👋 Xin chào, T là Dang  
 
 🎓 Sinh viên tại **FPT University (FPTU)**  
 💻 Hướng tới Fullstack Developer + DevOps Engineer  
@@ -33,7 +33,6 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff" />
   <img src="https://img.shields.io/badge/SSH-000000?logo=linux&logoColor=fff" />
 </p>
