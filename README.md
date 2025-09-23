@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là [Tên của bạn]  
+# 👋 Xin chào, mình là Dang  
 
 🎓 Sinh viên tại **FPT University (FPTU)**  
 💻 Hướng tới Fullstack Developer + DevOps Engineer  
@@ -38,12 +38,6 @@
   <img src="https://img.shields.io/badge/SSH-000000?logo=linux&logoColor=fff" />
 </p>
 
----
-
-## 📊 Thống kê GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
 
 ---
 
