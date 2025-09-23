@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**haidang71214/haidang71214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Sinh viên tại **FPT University (FPTU)**  
+💻 Đang học tập và làm việc trong lĩnh vực **Web Development & DevOps**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Công nghệ & Kỹ năng  
+
+### 🌐 Frontend  
+- ⚡ Vite  
+- ⚡ Next.js  
+- ⚡ JavaScript, TypeScript  
+
+### ⚙️ Backend  
+- ☕ Java (Spring Boot)  
+- 🌱 Node.js (Express, NestJS)  
+
+### 🗄️ Cơ sở dữ liệu  
+- 🐬 MySQL  
+- 🍃 MongoDB  
+
+### 🛠️ DevOps & Công cụ  
+- 🐳 Docker  
+- 🔄 CI/CD (GitHub Actions, GitLab CI)  
+- 🔧 Git & GitHub  
+
