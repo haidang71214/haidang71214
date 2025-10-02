@@ -40,7 +40,7 @@
 
 ---
 
-## 🌐 Kết nối với mình  
+## 🌐 Kết nối với elm
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/YOUR_LINK)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://facebook.com/YOUR_LINK)  
