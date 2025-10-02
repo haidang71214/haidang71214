@@ -1,4 +1,4 @@
-# 👋 Xin chào, T là Dang  
+# 👋 Xin chào, elm là Dang  
 
 🎓 Sinh viên tại **FPT University (FPTU)**  
 💻 Hướng tới Fullstack Developer + DevOps Engineer  
