@@ -5,7 +5,7 @@ Hướng tới Fullstack Developer + DevOps Engineer
 
 Frontend: Vite, Next.js, JavaScript, TypeScript  
 
-Backend: Java Spring Boot,  Node.js/(Express.js&NestJS) , .Net
+Backend: Java Spring Boot,  Node.js/(Express.js&NestJS) , ASP.Net
 
 Database: MySQL, MongoDB  
 
