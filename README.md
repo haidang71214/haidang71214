@@ -3,7 +3,7 @@
 Sinh viên tại **FPT University (FPTU)**  
 Hướng tới Fullstack Developer + DevOps Engineer  
 
-Frontend: Vite, Next.js, JavaScript, TypeScript  
+Frontend: React, Next.js, JavaScript, TypeScript  
 
 Backend: Java Spring Boot,  Node.js/(Express.js&NestJS) , ASP.Net
 
