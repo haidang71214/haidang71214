@@ -10,3 +10,7 @@ Backend: Java Spring Boot,  Node.js/(Express.js & NestJS), ASP.Net
 Database: MySQL, MongoDB, PostgreSQL, Redis
 
 DevOps & Cloud: Docker/Docker-compose,GitHub Actions,Ubuntu SSH
+
+Architectures & Patterns: Microservices, Monorepos  
+
+Tools & Workflows: Git, Husky, ESLint/Prettier, Postman
