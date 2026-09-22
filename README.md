@@ -19,4 +19,5 @@ name: Dang
 role: Fullstack Developer & DevOps Engineer
 focus: [Distributed Systems, Cloud Native, Event-Driven Architecture, High Performance Web]
 philosophy: "Write clean code, automate everything, monitor relentlessly."
-
+<!-- ĐOẠN CODE ĐÃ SỬA: -->
+<img src="https://streak-stats.demolab.com/?user=haidang71214&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
