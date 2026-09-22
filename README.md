@@ -15,6 +15,8 @@ name: Dang
 role: Fullstack Developer & DevOps Engineer
 focus: [Distributed Systems, Cloud Native, Event-Driven Architecture, High Performance Web]
 philosophy: "Write clean code, automate everything, monitor relentlessly."
+```
+---
 <!-- ================= GITHUB ANALYTICS ================= -->
 ### 📊 GitHub Analytics
 <div align="center">
