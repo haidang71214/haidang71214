@@ -19,18 +19,4 @@ name: Dang
 role: Fullstack Developer & DevOps Engineer
 focus: [Distributed Systems, Cloud Native, Event-Driven Architecture, High Performance Web]
 philosophy: "Write clean code, automate everything, monitor relentlessly."
-<!-- ================= GITHUB STATS MỚI (KHÔNG BAO GIỜ LỖI) ================= -->
-### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- Thẻ Stats tổng -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TÊN_GITHUB_CỦA_BẠN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  
-  <!-- Thẻ Ngôn ngữ hay dùng -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TÊN_GITHUB_CỦA_BẠN&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
-<div align="center">
-  <!-- Thẻ Streak chuỗi ngày commit -->
-  <img src="https://streak-stats.demolab.com/?user=TÊN_GITHUB_CỦA_BẠN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
