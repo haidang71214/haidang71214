@@ -10,18 +10,15 @@
 </div>
 <br/>
 ### ⚡ About Me
-```yaml
-name: Dang
-role: Fullstack Developer & DevOps Engineer
-focus: [Distributed Systems, Cloud Native, Event-Driven Architecture, High Performance Web]
-philosophy: "Write clean code, automate everything, monitor relentlessly."
-```
+- 💻 **Role:** Fullstack Developer & DevOps Engineer
+- 🎯 **Focus:** Distributed Systems, Cloud Native, Event-Driven Architecture, High Performance Web
+- 💡 **Philosophy:** *"Write clean code, automate everything, monitor relentlessly."*
 ---
 <!-- ================= GITHUB ANALYTICS ================= -->
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=haidang71214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haidang71214&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=haidang71214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haidang71214&layout=compact&theme=tokyonight&hide_border=true" height="155" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=haidang71214&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
